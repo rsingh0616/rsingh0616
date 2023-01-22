@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-- Senior at New Jersey City University
-- Computer Science major
+- Cyber Fellow @ NYU
 - 🔭 Currently working on Cyber Security projects
-- 🌱 Learning about Network Security and Data Science 
+- 🌱 Learning about Cyber and Network security
 - 📫 Email me: ripunjay65@gmail.com
-- 🤔 Looking for security and data science opportunities
