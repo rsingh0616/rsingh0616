@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ripunjay Singh</h1>
 <h3 align="center">A passionate cybersecurity professional</h3>
 
-<img src="cyber_pic.gif" alt="Girl in a jacket" width="500" height="600">
+<img src="cyber_pic.gif" alt="Cybersecurity" width="1000" height="500" align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rsingh0616&label=Profile%20views&color=0e75b6&style=flat" alt="rsingh0616" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rsingh0616&label=Profile%20views&color=0e75b6&style=flat" alt="rsingh0616"/> </p>
 
 - 🔭 I’m currently working on [researching ways to safeguard the software supply chain](https://engineering.nyu.edu/research-innovation/student-research/vertically-integrated-projects/vip-teams/dtcc-supply-chain-research-gy)
 
