@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ripunjay Singh</h1>
-<h3 align="center">A passionate cybersecurity professional</h3>
+<h3 align="center">A passionate cybersecurity and data analytics professional</h3>
 
 <img src="cyber_pic.gif" alt="Cybersecurity" width="1000" height="500" align="center">
 
